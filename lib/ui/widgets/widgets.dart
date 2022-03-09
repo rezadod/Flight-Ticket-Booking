@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+import 'package:intl/intl.dart';
+import 'package:planeapp/cubit/page_state.dart';
+import 'package:planeapp/cubit/seat_cubit.dart';
+import 'package:planeapp/model/destination_model.dart';
+import 'package:planeapp/model/transaction_model.dart';
+import 'package:planeapp/shared/theme.dart';
+import 'package:planeapp/ui/pages/pages.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+
+part 'booking_detail_item.dart';
+part 'custom_button.dart';
+part 'custom_navigator_bar_item.dart';
+part 'custom_textformfield.dart';
+part 'destination_card.dart';
+part 'destination_tile.dart';
+part 'interest_item.dart';
+part 'photo_item.dart';
+part 'seat_item.dart';
+part 'transaction_card.dart';

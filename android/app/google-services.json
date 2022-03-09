@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808990457624",
+    "project_id": "plane-a8c07",
+    "storage_bucket": "plane-a8c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808990457624:android:8f289e3786f32a9752286d",
+        "android_client_info": {
+          "package_name": "com.rezawidodo.planeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808990457624-qmmpt62rdtd38oprsef51khvktbfjii1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOZvJTs7Ae14B3Qf7ObyDcMzVrzlWHiQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808990457624-qmmpt62rdtd38oprsef51khvktbfjii1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
